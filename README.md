@@ -11,12 +11,11 @@
 Atualmente tenho 17 anos de idade, comecei a estudar programação e desenvolvimento web no dia **01 de janeiro de 2022 (15 anos de idade)**, desde então me tornei um amante do mundo da tecnologia, comecei estudando **Front-end** de forma autodidata, e atualmente estou estudando o desenvolvimento **Back-end**, e estou a procura de oportunidades!
 
 ## **Habilidades**
-Aqui está todas as tecnologias que eu utilizo ou já ultilizei alguma vez em meus projetos.
-
 ![Figma](https://img.shields.io/badge/Figma-323232?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-323232?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-323232?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-323232?style=for-the-badge&logo=Aseprite&logoColor=white)
+-
 ![Html5](https://img.shields.io/badge/HTML5-915DFF?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-915DFF?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-915DFF?style=for-the-badge&logo=sass&logoColor=white)
