@@ -1,6 +1,4 @@
 # Olá, me chamo Vitor Domingues
-## 🤔 **Sobre mim**
-Atualmente tenho 17 anos de idade, comecei a estudar programação e desenvolvimento web no dia **01 de janeiro de 2022 (15 anos de idade)**, desde então me tornei um amante do mundo da tecnologia, comecei estudando **Front-end** de forma autodidata, e atualmente estou estudando o desenvolvimento **Back-end**, e estou a procura de oportunidades!
 
 ## 🧠 **Habilidades**
 ![Html5](https://img.shields.io/badge/HTML5-915DFF?style=for-the-badge&logo=html5&logoColor=white)
